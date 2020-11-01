@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="336fe47d-4fa3-475c-a262-e425660c6a42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/Entity/InvitationCodeTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Repository/UserRepositorryTestFixtures.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.test" beforeDir="false" afterPath="$PROJECT_DIR$/.env.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jgNX9na7f0GC4wkx0N3bI9nqtD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.UserRepositoryTest">
+    <configuration name="AppTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\AppTest" file="$PROJECT_DIR$/tests/AppTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testTestsAreWorking" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\AppTest" file="$PROJECT_DIR$/tests/AppTest.php" method="testTestsAreWorking" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRepositoryTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Repository\UserRepositoryTest" file="$PROJECT_DIR$/tests/Repository/UserRepositoryTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRepositoryTest.testCount" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Repository\UserRepositoryTest" file="$PROJECT_DIR$/tests/Repository/UserRepositoryTest.php" method="testCount" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.UserRepositoryTest" />
+        <item itemvalue="PHPUnit.AppTest" />
+        <item itemvalue="PHPUnit.UserRepositoryTest.testCount" />
+        <item itemvalue="PHPUnit.AppTest.testTestsAreWorking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="336fe47d-4fa3-475c-a262-e425660c6a42" name="Default Changelist" comment="" />
+      <created>1604221811683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604221811683</updated>
+      <workItem from="1604221812830" duration="11211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="119" width="669" height="883" key="#PHP" timestamp="1604222230616">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="574" y="119" width="669" height="883" key="#PHP/0.0.1792.1120@0.0.1792.1120" timestamp="1604222230616" />
+    <state x="484" y="222" key="#Test_Frameworks" timestamp="1604222339752">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="484" y="222" key="#Test_Frameworks/0.0.1792.1120@0.0.1792.1120" timestamp="1604222339752" />
+    <state x="598" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604227545205">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="598" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604227545205" />
+    <state x="626" y="405" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1604222612512">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="626" y="405" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604222612512" />
+    <state x="692" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1604222990416">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="692" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1604222990416" />
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom" timestamp="1604229854714">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1604229854714" />
+    <state width="1750" height="313" key="GridCell.Tab.0.center" timestamp="1604229854714">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1604229854714" />
+    <state width="1750" height="313" key="GridCell.Tab.0.left" timestamp="1604229854713">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1604229854713" />
+    <state width="1750" height="313" key="GridCell.Tab.0.right" timestamp="1604229854714">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1604229854714" />
+    <state x="598" y="277" key="NewPhpClassDialog" timestamp="1604237369570">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="598" y="277" key="NewPhpClassDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604237369570" />
+    <state x="715" y="486" key="NewPhpFileDialog" timestamp="1604222931883">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="715" y="486" key="NewPhpFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604222931883" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1604222501786">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1604222501786" />
+  </component>
+</project>
